@@ -1,0 +1,1 @@
+Detailed explanation of the CC0 1.0 Universal License and its implications for contributors and users.
