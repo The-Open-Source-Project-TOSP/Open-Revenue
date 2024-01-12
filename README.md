@@ -17,7 +17,7 @@ Open Revenue is an initiative aimed at providing information and resources for i
 |----|----|----|
 |Encourage user and business donations to support the project.|Patreon, Open Collective, and Kickstarter.|Create compelling campaigns, set achievable goals, and offer incentives for supporters.|
 
-**🔍 More Details:** [Donations and Crowdfunding Guide](../Open-Revenue/RevenueModels/Donations.md)
+**🔍 More Details:** [Donations and Crowdfunding Guide](RevenueModels/Donations.md)
 
 </details>
 <br/>
@@ -29,7 +29,7 @@ Open Revenue is an initiative aimed at providing information and resources for i
 |----|----|----|
 |Provide custom development services for users needing specific features or integrations.|Tailored solutions that extend or enhance the core open source project.|Work closely with clients to understand their needs and deliver bespoke solutions.|
 
-**🔍 More Details:** [Custom Development Opportunities](../Open-Revenue/RevenueModels/CustomDevelopment.md)
+**🔍 More Details:** [Custom Development Opportunities](RevenueModels/CustomDevelopment.md)
 
 </details>
 <br/>
@@ -41,7 +41,7 @@ Open Revenue is an initiative aimed at providing information and resources for i
 |----|----|----|
 |Offer the project under both open source and commercial licenses.|Commercial license for companies requiring exclusive features or support.|Balances open source ethos with commercial viability.|
 
-**🔍 More Details:** [Understanding Dual Licensing](../Open-Revenue/RevenueModels/DualLicensing.md)
+**🔍 More Details:** [Understanding Dual Licensing](RevenueModels/DualLicensing.md)
 
 </details>
 <br/>
@@ -53,7 +53,7 @@ Open Revenue is an initiative aimed at providing information and resources for i
 |----|----|----|
 |Establish relationships with businesses that benefit from the project.|Brand placements, sponsored features, or joint marketing efforts.|Companies in related industries or with aligned interests.|
 
-**🔍 More Details:** [Sponsorship and Partnership Guide](../Open-Revenue/RevenueModels/SponsorshipPartnerships.md)
+**🔍 More Details:** [Sponsorship and Partnership Guide](RevenueModels/SponsorshipPartnerships.md)
 
 </details>
 <br/>
@@ -65,7 +65,7 @@ Open Revenue is an initiative aimed at providing information and resources for i
 |----|----|----|
 |Offer training programs, workshops, or online courses about the project.|In-person sessions, webinars, e-learning courses.|New users, developers, or organizations adopting the project.|
 
-**🔍 More Details:** [Training and Education Programs](../Open-Revenue/RevenueModels/TrainingEducation.md)
+**🔍 More Details:** [Training and Education Programs](RevenueModels/TrainingEducation.md)
 
 </details>
 <br/>
@@ -77,7 +77,7 @@ Open Revenue is an initiative aimed at providing information and resources for i
 |----|----|----|
 |Sell branded merchandise related to the project.|T-shirts, stickers, mugs, and other memorabilia.|Leverage project branding and community engagement.|
 
-**🔍 More Details:** [Merchandise Catalogue](../Open-Revenue/RevenueModels/Merchandising.md)
+**🔍 More Details:** [Merchandise Catalogue](RevenueModels/Merchandising.md)
 
 </details>
 <br />
@@ -89,7 +89,7 @@ Open Revenue is an initiative aimed at providing information and resources for i
 |----|----|----|
 |Offer a hosted version of the open source project as a service.|Provide a managed, scalable, and updated service with added functionalities.|Subscription-based, with different tiers for various features and usage levels.|
 
-**🔍 More Details:** [SaaS Model Guide](../Open-Revenue/RevenueModels/SaaS.md)
+**🔍 More Details:** [SaaS Model Guide](RevenueModels/SaaS.md)
 
 </details>
 <br/>
@@ -101,7 +101,7 @@ Open Revenue is an initiative aimed at providing information and resources for i
 |----|----|----|
 |Utilize an open-core model where the majority of code is open source, but a portion is proprietary, often targeted at enterprises.|Open-source the core software while offering proprietary modules or extensions, especially for enterprise use.|Companies pay for using enterprise-specific modules or integrations.|
 
-**🔍 More Details:** [Guide on Implementing the Open-Core Model](../Open-Revenue/RevenueModels/OpenCoreModel.md)
+**🔍 More Details:** [Guide on Implementing the Open-Core Model](RevenueModels/OpenCoreModel.md)
 
 </details>
 <br/>
