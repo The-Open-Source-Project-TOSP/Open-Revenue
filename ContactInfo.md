@@ -20,5 +20,3 @@ Your support is crucial for the growth and sustainability of Open Revenue. Hereâ
 ## More Information ğŸŒ
 
 For detailed information about the project, our initiatives, and how you can get involved, please visit [The Open Source Project](https://github.com/The-Open-Source-Project-TOSP).
-
----
